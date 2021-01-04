@@ -11,3 +11,4 @@ int main(){
 }
 
 ```
+[計算三角形面積](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=6858)
