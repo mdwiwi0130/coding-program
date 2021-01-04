@@ -1,7 +1,11 @@
 #include<iostream>
+	
 #include<iomanip>
+	
 using namespace std;
+
 int main(){
+
 	float a,b,c,z=0.0;
  	cin>>a>>b>>c;
  	z=(a+b)*c/2;
