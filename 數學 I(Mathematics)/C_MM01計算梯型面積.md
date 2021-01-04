@@ -1,4 +1,4 @@
-ˋˋˋ
+```markdown
 #include<iostream>
 #include<iomanip>
 using namespace std;
@@ -9,6 +9,6 @@ int main(){
  	cout<<"Trapezoid area:"<<fixed<<setprecision(1)<<z<<"\n";
 	return 0;
 }
-ˋˋˋ
-	
+```
+
 [計算梯型面積](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=6855)
