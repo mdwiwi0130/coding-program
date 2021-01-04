@@ -1,16 +1,14 @@
+ˋˋˋmarkdown
+
 #include<iostream>
-	
 #include<iomanip>
-	
 using namespace std;
-
 int main(){
-
 	float a,b,c,z=0.0;
  	cin>>a>>b>>c;
  	z=(a+b)*c/2;
  	cout<<"Trapezoid area:"<<fixed<<setprecision(1)<<z<<"\n";
 	return 0;
 }
-
+ˋˋˋ
 [計算梯型面積](https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=6855)
