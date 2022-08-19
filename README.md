@@ -1,6 +1,9 @@
 # 歡迎來到Coding-Program
 
 - 各程式解題網站之答案儲存倉庫
+>本倉庫程式碼為筆者學習時為了紀錄所編寫、存放,可能非最佳寫法
+>
+>僅供參考
 
 ## 解題專區
 - **[18Dice](https://github.com/mdwiwi0130/coding-program/tree/main/%E8%A7%A3%E9%A1%8C/18DICE)**
