@@ -71,30 +71,33 @@ Binomial_Coefficient(n, m) = The binomial coefficient value of (n, m)
 
 -----------------------------------------------------------
 輸入範例 1 
-
+```
 11 0
 11 1
 11 2
 0 0
+```
 輸出範例 1
-
+```
 1
 11
 55
+```
 輸入範例 2 
-
+```
 1 0
 2 0
 10 8
 10 9
 0 0
+```
 輸出範例 2
-
+```
 1
 1
 45
 10
-
+```
 ```c
 #include <stdio.h>
 int Binomial_Coefficient(int ans,int n,int m,int o){
