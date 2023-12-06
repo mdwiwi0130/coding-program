@@ -99,6 +99,7 @@ Binomial_Coefficient(n, m) = The binomial coefficient value of (n, m)
 45
 10
 ```
+## 解答
 ```c
 #include <stdio.h>
 int Binomial_Coefficient(int ans,int n,int m,int o){
