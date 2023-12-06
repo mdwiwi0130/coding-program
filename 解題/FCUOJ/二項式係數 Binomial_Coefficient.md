@@ -11,7 +11,7 @@
 
 建立一個函式名稱為Binomial_Coefficient的副函式，需使用遞迴計算
 
-----------------------------------------------------------
+
 
 In mathematics, binomial coefficients are the coefficients of the terms in the binomial theorem. Binomial coefficients are commonly encountered in various mathematical fields, especially in combinatorics.
 
@@ -43,7 +43,7 @@ Use Recursive!
 
 當輸入的兩個數值皆為0時，結束程式。
 
------------------------------------------------------------
+
 
 Each line of input contains two integers, n and m.
 
@@ -63,27 +63,28 @@ The program terminates when both input values are 0.
 
 Binomial_Coefficient(n, m) = (n, m)的二項式係數值
 
------------------------------------------------------------
+
 
 Based on the input values of n and m, output the following content:
 
 Binomial_Coefficient(n, m) = The binomial coefficient value of (n, m)
 
------------------------------------------------------------
-輸入範例 1 
+
+
+### 輸入範例 1 
 ```
 11 0
 11 1
 11 2
 0 0
 ```
-輸出範例 1
+### 輸出範例 1
 ```
 1
 11
 55
 ```
-輸入範例 2 
+### 輸入範例 2 
 ```
 1 0
 2 0
@@ -91,7 +92,7 @@ Binomial_Coefficient(n, m) = The binomial coefficient value of (n, m)
 10 9
 0 0
 ```
-輸出範例 2
+### 輸出範例 2
 ```
 1
 1
