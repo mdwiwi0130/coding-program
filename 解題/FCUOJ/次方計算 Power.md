@@ -1,4 +1,4 @@
-# 次方計算 Power
+# [次方計算 Power](https://oj.fcu.edu.tw/contest/845/problem/014)
 
 ## Description
 
