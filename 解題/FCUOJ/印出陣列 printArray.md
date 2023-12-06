@@ -30,7 +30,7 @@ If the first number is 0, then terminate the program.
 Display all elements in the arrays.
 
 
-輸入範例 1 
+### 輸入範例 1 
 ```
 1
 0 0 1 2 3 4 5 6 7 8
@@ -39,12 +39,13 @@ Display all elements in the arrays.
 55 66 77 88 88 99 110 123 567 999
 0
 ```
-輸出範例 1
+### 輸出範例 1
 ```
 0 0 1 2 3 4 5 6 7 8
 22 33 66 77 88 99 100 101 123 211
 55 66 77 88 88 99 110 123 567 999
 ```
+## 解答
 ```c
 #include <stdio.h>
 void printArray(int n,int x[10]){
