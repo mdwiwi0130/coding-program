@@ -6,6 +6,7 @@
 >僅供參考
 
 ## 解題專區
+- **[FCUOJ](https://github.com/mdwiwi0130/coding-program/tree/4904f8add21877e78388114636d7ff6105a16a02/%E8%A7%A3%E9%A1%8C/FCUOJ)**
 - **[18Dice](https://github.com/mdwiwi0130/coding-program/tree/main/%E8%A7%A3%E9%A1%8C/18DICE)**
 - **[AtCoder](https://github.com/mdwiwi0130/coding-program/tree/main/%E8%A7%A3%E9%A1%8C/AtCoder)**
 - **[Kattis](https://github.com/mdwiwi0130/coding-program/tree/main/%E8%A7%A3%E9%A1%8C/Kattis)**
